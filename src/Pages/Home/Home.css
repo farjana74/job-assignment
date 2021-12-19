@@ -1,0 +1,12 @@
+.icon{
+    border: 2px solid gray;
+    border-radius:30px ;
+    padding: 3px;
+    background-color: white;
+}
+.image-size{
+    border-radius: 50%;
+}
+.total{
+    background-color: gray;
+}
