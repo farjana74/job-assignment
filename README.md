@@ -21,3 +21,7 @@ Javascript, HTML, CSS,REACT,node js,mongodb,express,bootstrap
 
 🔗 github profile Links
 https://github.com/https-github-com-farjana74
+
+React Code run on terminal:
+1.npm install
+2.npm start.
